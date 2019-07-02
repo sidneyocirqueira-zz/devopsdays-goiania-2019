@@ -3,8 +3,6 @@
 
 Nessa sessão apresentei fim a fim como adicionar projetos de Azure Sql Databases dentro da cultura DevOps, nos ciclos de integração e entrega contínua (CI/CD) utilizando as ferramentas Azure DevOps, SQL Database, Visual Studio + SSDT.
 
-![img](https://github.com/sidneyocirqueira/devopsdays-goiania-2019/blob/master/img/logo.jpg)
-
 ## Sumário
 * [Palestra](#palestra)
 * [Integrante](#integrantes)
