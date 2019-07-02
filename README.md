@@ -1,4 +1,4 @@
-# DevOps Days - Goinânia 2019
+# DevOps Days - Goiânia 2019
 [PT-BR] Demo da palestra realizada no evento [DevOps Days Goiânia 2019](https://devopsdays.org/events/2019-goiania/welcome/)
 
 Nessa sessão apresentei fim a fim como adicionar projetos de Azure Sql Databases dentro da cultura DevOps, nos ciclos de integração e entrega contínua (CI/CD) utilizando as ferramentas Azure DevOps, SQL Database, Visual Studio + SSDT.
