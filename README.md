@@ -40,6 +40,7 @@ Instruções para execução do projeto:
 
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
+* Microsoft Learn Azure DevOps: https://docs.microsoft.com/en-us/learn/
 * Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/
 * DevOps: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops
 * SSDT: https://devblogs.microsoft.com/ssdt/
@@ -48,7 +49,7 @@ Instruções para execução do projeto:
 * DevOps Using SQL Server: https://www.microsoft.com/en-us/sql-server/developer-get-started/sql-devops/
 * Database DevOps: https://azure.microsoft.com/pt-br/resources/videos/connect-2017-database-devops-with-sql-server-data-tools-and-team-services/
 * Curso DevOps for Databases: https://www.edx.org/course/devops-for-databases-2 
-* Post 
+
 
 ## Contribuição
 Se você quiser contribuir, leia mais sobre tags markdown para editar o arquivo README, [Guia markdown](https://docs.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops&viewFallbackFrom=vsts) 
