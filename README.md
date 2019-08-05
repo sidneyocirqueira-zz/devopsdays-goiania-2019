@@ -40,7 +40,7 @@ Instruções para execução do projeto:
 
 ## Referências 
 * Microsoft Learn: https://docs.microsoft.com/en-us/learn/
-* Microsoft Learn Azure DevOps: https://docs.microsoft.com/en-us/learn/
+* Microsoft Learn Azure DevOps: https://docs.microsoft.com/en-us/learn/browse/?roles=devops-engineer
 * Azure SQL Database: https://docs.microsoft.com/en-us/azure/sql-database/
 * DevOps: https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops
 * SSDT: https://devblogs.microsoft.com/ssdt/
