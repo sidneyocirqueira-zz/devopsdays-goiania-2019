@@ -16,6 +16,7 @@ Nessa sessão apresentei fim a fim como adicionar projetos de Azure Sql Database
 
 ## Palestra
 * [DevOps for Azure SQL Databases](https://github.com/sidneyocirqueira/devopsdays-goiania-2019/blob/master/pdf/DevOps_Goiania_2019.pdf)
+* [Palestras transmitidas no youtube](https://youtu.be/QK28GELzZ6Y) 
 
 ## Integrantes
 1. [Sidney Cirqueira](https://www.linkedin.com/in/sidneyoliveiracirqueira/)
